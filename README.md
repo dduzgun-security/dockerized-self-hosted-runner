@@ -20,3 +20,4 @@ To stop the Docker image
 ## How to remove it
 To completely remove the dockerized self hosted runner
 
+https://docs.github.com/en/free-pro-team@latest/actions/hosting-your-own-runners/removing-self-hosted-runners#:~:text=Click%20next%20to%20the%20runner,removing%20the%20self%2Dhosted%20runner.
