@@ -12,7 +12,7 @@
   <h3 align="center">Dockerized self-hosted runner</h3>
 
   <p align="center">
-    This is an Ubuntu Dockerfile of a self hosted GitHub Action.
+    This is an Ubuntu Dockerfile for self hosted GitHub Action.
     <br />
     <br />
     <a href="https://github.com/dduzgun-security/dockerized-self-hosted-runner/issues">Report an issue</a>
