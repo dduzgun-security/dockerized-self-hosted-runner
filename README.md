@@ -61,4 +61,4 @@ https://docs.github.com/en/free-pro-team@latest/actions/hosting-your-own-runners
 [issues-shield]: https://img.shields.io/github/issues/dduzgun-security/dockerized-self-hosted-runner.svg?style=flat-square
 [issues-url]: https://github.com/dduzgun-security/dockerized-self-hosted-runner/issues
 [license-shield]: https://img.shields.io/github/license/dduzgun-security/dockerized-self-hosted-runner.svg?style=flat-square
-[license-url]: https://github.com/dduzgun-security/dockerized-self-hosted-runner/blob/master/LICENSE.txt
+[license-url]: https://github.com/dduzgun-security/dockerized-self-hosted-runner/blob/main/LICENSE.txt
